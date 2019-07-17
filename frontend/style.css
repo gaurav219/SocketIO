@@ -1,0 +1,7 @@
+#messages {
+    min-height: 400px;
+}
+
+.chat-message {
+    opacity: 0.8;
+}
