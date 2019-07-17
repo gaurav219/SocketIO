@@ -1,6 +1,6 @@
 # SocketIOChat
 
-A Simple Chat Application made using Socket.IO library and MongoDB Database.
+A Simple Chat Application made using Socket.IO library and MongoDB Database
 
 ## Version
      1.0.0
